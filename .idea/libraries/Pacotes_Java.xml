@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Pacotes Java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Pacotes Java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Pacotes Java" recursive="false" />
+  </library>
+</component>
